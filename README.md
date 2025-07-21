@@ -7,8 +7,6 @@
 ## 🎮 About the Game
 
 
-<img width="432" height="296" alt="Jump Screen" src="https://github.com/user-attachments/assets/c46beaf9-e407-473e-906f-6f84a5e407c8" />
-
 **The Warrior Robot** is a thrilling 2D platformer developed in Unity, where you play as a robot trapped inside a rocket 🚀 in a hostile world full of enemies trying to stop you. Navigate through challenging levels, master your skills, and find your way to freedom!  
 
 This game was a key milestone in my journey learning game development, introducing cool concepts like **perspective & parallax cameras** and **advanced AI enemies**.
